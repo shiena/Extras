@@ -1,10 +1,10 @@
 {
-    "version": "2.15.0.872",
+    "version": "2.15.0.873",
     "description": "Text-To-Speech software based on SAPI",
     "homepage": "http://balabolka.site/balabolka.htm",
     "license": "Freeware",
     "url": "http://balabolka.site/balabolka_portable.zip",
-    "hash": "bbf416cbdddea32d1c4f61aaf20a50eb90a09c701b85eb0ed52832ecfb654228",
+    "hash": "8a79aa5a92c9c9c0cda1acf0c7ba8cf19497d7315cfba84bafa79a65491a8583",
     "extract_dir": "Balabolka",
     "post_install": "Get-ChildItem \"$persist_dir\\*\" -Include 'balabolka.dat', 'balabolka.pcfg', 'balabolka.echo' -Force | Copy-Item -Destination \"$dir\" -ErrorAction SilentlyContinue",
     "uninstaller": {
