@@ -1,13 +1,13 @@
 {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "homepage": "https://github.com/hiroi-sora/Umi-OCR",
     "description": "OCR software, free and offline. (Rapid)",
     "license": "MIT License",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hiroi-sora/Umi-OCR/releases/download/v2.1.2/Umi-OCR_Rapid_v2.1.2.7z.exe",
-            "hash": "12356fc9f79ef0a8aab38691036c3e643ead8b97b12df70b4e349bcc26b9d898",
-            "extract_dir": "Umi-OCR_Rapid_v2.1.2"
+            "url": "https://github.com/hiroi-sora/Umi-OCR/releases/download/v2.1.3/Umi-OCR_Rapid_v2.1.3.7z.exe",
+            "hash": "de945941f785b9bbf6c7c5d82a5736c9b14a777d3503966c5ea110ac21ebc816",
+            "extract_dir": "Umi-OCR_Rapid_v2.1.3"
         }
     },
     "shortcuts": [
